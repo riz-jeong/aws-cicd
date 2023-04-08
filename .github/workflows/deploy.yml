@@ -1,4 +1,5 @@
 name: aws-cicd
+name: aws-cicd
 on:
   push:
     branches:
