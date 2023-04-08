@@ -1,4 +1,4 @@
-name: aws-v5
+name: aws-cicd
 on:
   push:
     branches:
